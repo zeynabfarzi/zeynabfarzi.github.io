@@ -1,9 +1,5 @@
 
-<style type="text/css">
-body{
- direction:rtl;
-}
-</style>
+<div dir="rtl">
 ### به نام خدا 
 ---
 ### انگیزه نامه 
@@ -33,3 +29,4 @@ body{
 ---
 + طراحی سایت با وردپرس
 +برنامه نویسی c++
+</div>
